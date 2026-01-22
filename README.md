@@ -54,6 +54,12 @@ Due to floating-point precision differences between C++ and Python/NumPy, result
 
 This project is a Python port of [IRIS](https://github.com/electronicarts/IRIS) by Electronic Arts Inc., originally released under the BSD 3-Clause License.
 
+## Links
+
+- [PyPI Package](https://pypi.org/project/iris-pse-detection/)
+- [GitHub Repository](https://github.com/tokoroten/iris-pse-detection)
+- [Original IRIS (C++)](https://github.com/electronicarts/IRIS)
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.

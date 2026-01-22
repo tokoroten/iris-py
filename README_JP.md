@@ -72,6 +72,12 @@ C++ と Python/NumPy の浮動小数点演算の精度差により、オリジ�
 
 このプロジェクトは、Electronic Arts Inc. が BSD 3-Clause License で公開した [IRIS](https://github.com/electronicarts/IRIS) の Python 移植版です。
 
+## リンク
+
+- [PyPI パッケージ](https://pypi.org/project/iris-pse-detection/)
+- [GitHub リポジトリ](https://github.com/tokoroten/iris-pse-detection)
+- [オリジナル IRIS (C++)](https://github.com/electronicarts/IRIS)
+
 ## ライセンス
 
 MIT License - 詳細は [LICENSE](LICENSE) を参照してください。
