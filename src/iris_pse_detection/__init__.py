@@ -20,5 +20,5 @@ from iris_pse_detection.configuration import Configuration
 from iris_pse_detection.frame_data import FrameData
 from iris_pse_detection.result import Result, AnalysisResult, FlashResult, PatternResult
 
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 __all__ = ["VideoAnalyser", "Configuration", "FrameData", "AnalysisResult", "Result"]
