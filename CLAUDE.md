@@ -7,7 +7,7 @@
 IRIS-PSE-Detection (`pip install iris-pse-detection`) は Electronic Arts の [IRIS](https://github.com/electronicarts/IRIS) (C++) を Python に移植したものです。光過敏性てんかんを引き起こす可能性のあるフラッシュパターンを動画から検出します。
 
 - PyPI: https://pypi.org/project/iris-pse-detection/
-- GitHub: https://github.com/tokoroten/iris-py
+- GitHub: https://github.com/tokoroten/iris-pse-detection
 
 ## コマンド
 

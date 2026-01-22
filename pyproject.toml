@@ -30,8 +30,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tokoroten/iris-py"
-Repository = "https://github.com/tokoroten/iris-py"
+Homepage = "https://github.com/tokoroten/iris-pse-detection"
+Repository = "https://github.com/tokoroten/iris-pse-detection"
 "Original C++ Project" = "https://github.com/electronicarts/IRIS"
 
 [project.optional-dependencies]

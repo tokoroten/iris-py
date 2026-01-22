@@ -1,7 +1,7 @@
 # IRIS-PSE-Detection
 
 [![PyPI version](https://badge.fury.io/py/iris-pse-detection.svg)](https://pypi.org/project/iris-pse-detection/)
-[![CI](https://github.com/tokoroten/iris-py/actions/workflows/ci.yml/badge.svg)](https://github.com/tokoroten/iris-py/actions/workflows/ci.yml)
+[![CI](https://github.com/tokoroten/iris-pse-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/tokoroten/iris-pse-detection/actions/workflows/ci.yml)
 
 Python port of [IRIS](https://github.com/electronicarts/IRIS) - Electronic Arts' photosensitive epilepsy risk detection library.
 
@@ -16,8 +16,8 @@ pip install iris-pse-detection
 Or for development:
 
 ```bash
-git clone https://github.com/tokoroten/iris-py
-cd iris-py
+git clone https://github.com/tokoroten/iris-pse-detection
+cd iris-pse-detection
 uv sync
 ```
 
