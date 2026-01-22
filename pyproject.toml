@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "iris_py contributors"},
+    {name = "IRIS-PSE-Detection contributors"},
 ]
 keywords = ["video", "analysis", "epilepsy", "photosensitivity", "flash", "pattern", "accessibility", "wcag"]
 classifiers = [
