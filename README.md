@@ -58,6 +58,10 @@ This project is a Python port of [IRIS](https://github.com/electronicarts/IRIS) 
 
 This software is provided for informational purposes only and should not be used as the sole method for ensuring video content safety. While this implementation is based on the original IRIS library, no guarantee is made regarding accuracy or compliance with any standards. Always consult with accessibility experts and conduct proper testing for production use.
 
+## Documentation
+
+- [Usage Guide](docs/USAGE.md) - Detailed documentation on results and configuration
+
 ## Links
 
 - [PyPI Package](https://pypi.org/project/iris-pse-detection/)
